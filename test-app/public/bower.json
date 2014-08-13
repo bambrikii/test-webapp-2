@@ -1,0 +1,26 @@
+{
+  "name": "./",
+  "version": "0.0.0",
+  "authors": [
+    "Ալեքսանդր Առաքելյան <bambrikii@gmail.com>"
+  ],
+  "moduleType": [
+    "amd"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "angular": "~1.2.21",
+    "requirejs": "~2.1.14",
+    "backgrid": "~0.3.5",
+    "bootstrap": "~3.2.0",
+    "backbone": "~1.1.2"
+  }
+}

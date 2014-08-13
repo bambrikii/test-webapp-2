@@ -1,0 +1,6 @@
+h1= title
+p Welcome to #{title}
+
+script(type="text/javascript",src="/bower_components/requirejs/requirejs.js",data-main="/backbone_example/main")
+
+div(id="app_example_backbone",style="background-color: #eeeeee; width: 100%; height: 100%;") me still empty
